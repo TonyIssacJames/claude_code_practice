@@ -30,3 +30,4 @@
             "id": "User.sendInput.DFCDAF06",
             "keys": "shift+enter"
         },
+	],
